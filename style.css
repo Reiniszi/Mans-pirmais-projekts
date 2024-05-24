@@ -2,16 +2,10 @@ body{
     background-color: aqua;
 }
 
-body{
-    background-color: red;
-}
 .title {
     font-size: 40px;
 }
-.text {
-    font-size: 13px;
-}
 
 .text {
-    font-size: 12px;
+    font-size: 13px;
 }
